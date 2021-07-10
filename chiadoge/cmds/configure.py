@@ -85,7 +85,7 @@ def configure(
     if testnet is not None:
         if testnet == "true" or testnet == "t":
             print("Setting Testnet")
-            testnet_port = "56898"
+            testnet_port = "56899"
             testnet_introducer = "beta1_introducer.chiadoge.net"
             testnet = "testnet7"
             config["full_node"]["port"] = int(testnet_port)
@@ -110,7 +110,7 @@ def configure(
 
         elif testnet == "false" or testnet == "f":
             print("Setting Mainnet")
-            mainnet_port = "6898"
+            mainnet_port = "6899"
             mainnet_introducer = "introducer.chiadoge.net"
             net = "mainnet"
             config["full_node"]["port"] = int(mainnet_port)
