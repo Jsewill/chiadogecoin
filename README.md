@@ -18,21 +18,8 @@ section of the
 
 ## RoadMap
 
-The total amount of chiadoge is a constant, almost 200,000,000,000.halving every 3 years:
-0~3 year 20,000 XCD/block
-3~6 year 10,000 XCD/block
-6~9 year 5,000 XCD/block
-9~12 year 2500 XCD/block
-12~15 year 1250 XCD/block
-15~18 year 625 XCD/block
-18~21 year 312.5 XCD/block
-21~24 year 156.25 XCD/block
-24~27 year 78.125 XCD/block
-27~30 year 39.062 XCD/block
-30~99 year 50 XCD/block
-after 99 year 0 XCD/block
-
-
+The total amount of chiadoge is a constant, almost 200,000,000,000.halving every 3 years,detail see:
+[Official website](https://chiadoge.net).
 
 ## Community
 
