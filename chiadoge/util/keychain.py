@@ -122,7 +122,7 @@ class Keychain:
     testing: bool
     user: str
 
-    def __init__(self, user: str = "user-chia-1.8", testing: bool = False):
+    def __init__(self, user: str = "user-chiadoge-1.8", testing: bool = False):
         self.testing = testing
         self.user = user
 
